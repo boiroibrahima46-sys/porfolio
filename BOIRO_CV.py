@@ -7,7 +7,6 @@ Je suis étudiant, maître en climatologie au département de Géographie(Scienc
 
 
 with st.sidebar:
-    st.image("Image_profil.jpeg")
     st.markdown(""" # 👨‍🏫Nom et Prénom: BOIRO Ibrahima
     """)
     st.markdown(""" # 📞Téléphone: 783954234
